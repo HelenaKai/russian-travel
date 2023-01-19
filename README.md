@@ -13,6 +13,6 @@
 * бриф дизайн-макета в Figma и чек-лист;
 
 ### Ссылка на сайт:
-
+https://helenakai.github.io/russian-travel/
 
 

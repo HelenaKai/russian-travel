@@ -5,9 +5,9 @@
   line-height: 14px;
   letter-spacing: 1.5px;
   text-transform: uppercase;
- }
+}
 
- @media screen and (max-width: 1023px) {
+@media screen and (max-width: 1023px) {
   .lead__caption {
     padding-left: 24px;
   }
